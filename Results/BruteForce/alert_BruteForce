@@ -1,0 +1,70 @@
+[**] [1:100000003:1] Warning!! Possible Brute Force, A host is trying to access FTP!! [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-17:10:42.018298 192.168.20.128:33190 -> 192.168.20.129:21
+TCP TTL:64 TOS:0x0 ID:44230 IpLen:20 DgmLen:65 DF
+***AP*** Seq: 0x7E4BC6A8  Ack: 0x83241050  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1690054166 3535956771 
+
+[**] [1:100000003:1] Warning!! Possible Brute Force, A host is trying to access FTP!! [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-17:10:44.508731 192.168.20.128:33190 -> 192.168.20.129:21
+TCP TTL:64 TOS:0x0 ID:44235 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x7E4BC6D4  Ack: 0x832410AA  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1690056657 3535959273 
+
+[**] [1:100000003:1] Warning!! Possible Brute Force, A host is trying to access FTP!! [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-17:10:47.594579 192.168.20.128:33210 -> 192.168.20.129:21
+TCP TTL:64 TOS:0x0 ID:38185 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x8735A7F5  Ack: 0x119CA3DC  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1690059743 3535962359 
+
+[**] [1:100000003:1] Warning!! Possible Brute Force, A host is trying to access FTP!! [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-17:10:47.595770 192.168.20.128:33192 -> 192.168.20.129:21
+TCP TTL:64 TOS:0x0 ID:11814 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0x6D7CB81F  Ack: 0x807DC167  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1690059744 3535962360 
+
+[**] [1:100000003:1] Warning!! Possible Brute Force, A host is trying to access FTP!! [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-17:10:47.597856 192.168.20.128:33210 -> 192.168.20.129:21
+TCP TTL:64 TOS:0x0 ID:38187 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0x8735A800  Ack: 0x119CA3FE  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1690059746 3535962362 
+
+[**] [1:100000003:1] Warning!! Possible Brute Force, A host is trying to access FTP!! [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-17:10:47.600993 192.168.20.128:33204 -> 192.168.20.129:21
+TCP TTL:64 TOS:0x0 ID:30218 IpLen:20 DgmLen:66 DF
+***AP*** Seq: 0xB0F31FC6  Ack: 0x194FDC76  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1690059749 3535962366 
+
+[**] [1:100000003:1] Warning!! Possible Brute Force, A host is trying to access FTP!! [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-17:10:47.604482 192.168.20.128:33202 -> 192.168.20.129:21
+TCP TTL:64 TOS:0x0 ID:63430 IpLen:20 DgmLen:62 DF
+***AP*** Seq: 0xBAADCE11  Ack: 0xA5F6D4D7  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1690059753 3535962369 
+
+[**] [1:100000003:1] Warning!! Possible Brute Force, A host is trying to access FTP!! [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-17:10:47.606410 192.168.20.128:33196 -> 192.168.20.129:21
+TCP TTL:64 TOS:0x0 ID:52847 IpLen:20 DgmLen:63 DF
+***AP*** Seq: 0xC02A4F17  Ack: 0x95D6A7D1  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1690059754 3535962371 
+
+[**] [1:100000003:1] Warning!! Possible Brute Force, A host is trying to access FTP!! [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-17:10:50.441881 192.168.20.128:33214 -> 192.168.20.129:21
+TCP TTL:64 TOS:0x0 ID:5360 IpLen:20 DgmLen:68 DF
+***AP*** Seq: 0xE47C222D  Ack: 0x8DA510F7  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1690062590 3535965206 
+
+[**] [1:100000003:1] Warning!! Possible Brute Force, A host is trying to access FTP!! [**]
+[Classification: Unsuccessful User Privilege Gain] [Priority: 1] 
+04/15-17:10:50.442366 192.168.20.128:33214 -> 192.168.20.129:21
+TCP TTL:64 TOS:0x0 ID:5362 IpLen:20 DgmLen:67 DF
+***AP*** Seq: 0xE47C223D  Ack: 0x8DA51119  Win: 0x1F6  TcpLen: 32
+TCP Options (3) => NOP NOP TS: 1690062590 3535965207 
+

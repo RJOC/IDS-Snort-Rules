@@ -1,0 +1,234 @@
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.706828 192.168.20.128:57929 -> 192.168.20.129:22
+TCP TTL:56 TOS:0x0 ID:16820 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.706830 192.168.20.128:57929 -> 192.168.20.129:25
+TCP TTL:55 TOS:0x0 ID:13315 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.712031 192.168.20.128:57929 -> 192.168.20.129:80
+TCP TTL:59 TOS:0x0 ID:12425 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.712333 192.168.20.128:57929 -> 192.168.20.129:23
+TCP TTL:47 TOS:0x0 ID:2597 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.712344 192.168.20.128:57929 -> 192.168.20.129:53
+TCP TTL:43 TOS:0x0 ID:28678 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.712726 192.168.20.128:57929 -> 192.168.20.129:21
+TCP TTL:55 TOS:0x0 ID:50744 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.718295 192.168.20.128:57929 -> 192.168.20.129:49
+TCP TTL:53 TOS:0x0 ID:7960 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.718301 192.168.20.128:57929 -> 192.168.20.129:32
+TCP TTL:38 TOS:0x0 ID:30255 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.718700 192.168.20.128:57929 -> 192.168.20.129:79
+TCP TTL:48 TOS:0x0 ID:64324 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.719263 192.168.20.128:57929 -> 192.168.20.129:7
+TCP TTL:40 TOS:0x0 ID:34706 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.730055 192.168.20.128:57929 -> 192.168.20.129:17
+TCP TTL:52 TOS:0x0 ID:39525 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.750888 192.168.20.128:57929 -> 192.168.20.129:20
+TCP TTL:58 TOS:0x0 ID:1561 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.750890 192.168.20.128:57929 -> 192.168.20.129:4
+TCP TTL:46 TOS:0x0 ID:43273 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.752062 192.168.20.128:57929 -> 192.168.20.129:90
+TCP TTL:47 TOS:0x0 ID:40527 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.757782 192.168.20.128:57929 -> 192.168.20.129:70
+TCP TTL:58 TOS:0x0 ID:61512 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.763198 192.168.20.128:57929 -> 192.168.20.129:83
+TCP TTL:53 TOS:0x0 ID:34040 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.763415 192.168.20.128:57929 -> 192.168.20.129:99
+TCP TTL:38 TOS:0x0 ID:56667 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.768976 192.168.20.128:57929 -> 192.168.20.129:13
+TCP TTL:59 TOS:0x0 ID:30565 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.769394 192.168.20.128:57929 -> 192.168.20.129:33
+TCP TTL:49 TOS:0x0 ID:43960 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.769398 192.168.20.128:57929 -> 192.168.20.129:100
+TCP TTL:44 TOS:0x0 ID:10693 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.774763 192.168.20.128:57929 -> 192.168.20.129:9
+TCP TTL:45 TOS:0x0 ID:55338 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.775446 192.168.20.128:57929 -> 192.168.20.129:3
+TCP TTL:43 TOS:0x0 ID:24328 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.780833 192.168.20.128:57929 -> 192.168.20.129:1
+TCP TTL:50 TOS:0x0 ID:57389 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.781107 192.168.20.128:57929 -> 192.168.20.129:43
+TCP TTL:47 TOS:0x0 ID:16019 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.781222 192.168.20.128:57929 -> 192.168.20.129:82
+TCP TTL:58 TOS:0x0 ID:28353 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.781379 192.168.20.128:57929 -> 192.168.20.129:85
+TCP TTL:48 TOS:0x0 ID:23129 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.786987 192.168.20.128:57929 -> 192.168.20.129:84
+TCP TTL:55 TOS:0x0 ID:61511 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.787256 192.168.20.128:57929 -> 192.168.20.129:19
+TCP TTL:44 TOS:0x0 ID:29266 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.787413 192.168.20.128:57929 -> 192.168.20.129:24
+TCP TTL:52 TOS:0x0 ID:20520 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.793413 192.168.20.128:57929 -> 192.168.20.129:26
+TCP TTL:42 TOS:0x0 ID:51657 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.798979 192.168.20.128:57929 -> 192.168.20.129:89
+TCP TTL:55 TOS:0x0 ID:28628 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.799266 192.168.20.128:57929 -> 192.168.20.129:42
+TCP TTL:38 TOS:0x0 ID:62487 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.799519 192.168.20.128:57929 -> 192.168.20.129:81
+TCP TTL:42 TOS:0x0 ID:5605 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.799529 192.168.20.128:57929 -> 192.168.20.129:30
+TCP TTL:45 TOS:0x0 ID:32590 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:31.804679 192.168.20.128:57929 -> 192.168.20.129:37
+TCP TTL:47 TOS:0x0 ID:7036 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:32.812620 192.168.20.128:57930 -> 192.168.20.129:21
+TCP TTL:42 TOS:0x0 ID:57446 IpLen:20 DgmLen:40
+******** Seq: 0x833E8964  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:32.812636 192.168.20.128:57930 -> 192.168.20.129:22
+TCP TTL:45 TOS:0x0 ID:46598 IpLen:20 DgmLen:40
+******** Seq: 0x833E8964  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:32.823008 192.168.20.128:57929 -> 192.168.20.129:6
+TCP TTL:40 TOS:0x0 ID:35276 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+
+[**] [1:100000001:1] Warning!! Possible NMAP Port Scan!! [**]
+[Classification: Detection of a Network Scan] [Priority: 3] 
+04/15-17:06:32.833780 192.168.20.128:57929 -> 192.168.20.129:88
+TCP TTL:50 TOS:0x0 ID:62863 IpLen:20 DgmLen:40
+******** Seq: 0x833F8965  Ack: 0x0  Win: 0x400  TcpLen: 20
+

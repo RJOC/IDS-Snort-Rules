@@ -1,0 +1,66 @@
+[**] [1:100000002:1] Warning!! Possible DDOS Probe!! [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+04/15-17:08:36.763071 192.168.20.128 -> 192.168.20.129
+ICMP TTL:64 TOS:0x0 ID:18231 IpLen:20 DgmLen:33
+Type:8  Code:0  ID:20505   Seq:0  ECHO
+
+[**] [1:100000002:1] Warning!! Possible DDOS Probe!! [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+04/15-17:08:37.765452 192.168.20.128 -> 192.168.20.129
+ICMP TTL:64 TOS:0x0 ID:9567 IpLen:20 DgmLen:33
+Type:8  Code:0  ID:20505   Seq:256  ECHO
+
+[**] [1:100000002:1] Warning!! Possible DDOS Probe!! [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+04/15-17:08:38.768256 192.168.20.128 -> 192.168.20.129
+ICMP TTL:64 TOS:0x0 ID:46801 IpLen:20 DgmLen:33
+Type:8  Code:0  ID:20505   Seq:512  ECHO
+
+[**] [1:100000002:1] Warning!! Possible DDOS Probe!! [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+04/15-17:08:39.771281 192.168.20.128 -> 192.168.20.129
+ICMP TTL:64 TOS:0x0 ID:34195 IpLen:20 DgmLen:33
+Type:8  Code:0  ID:20505   Seq:768  ECHO
+
+[**] [1:100000002:1] Warning!! Possible DDOS Probe!! [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+04/15-17:08:40.773653 192.168.20.128 -> 192.168.20.129
+ICMP TTL:64 TOS:0x0 ID:60792 IpLen:20 DgmLen:33
+Type:8  Code:0  ID:20505   Seq:1024  ECHO
+
+[**] [1:100000002:1] Warning!! Possible DDOS Probe!! [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+04/15-17:08:41.776736 192.168.20.128 -> 192.168.20.129
+ICMP TTL:64 TOS:0x0 ID:58115 IpLen:20 DgmLen:33
+Type:8  Code:0  ID:20505   Seq:1280  ECHO
+
+[**] [1:100000002:1] Warning!! Possible DDOS Probe!! [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+04/15-17:08:42.777534 192.168.20.128 -> 192.168.20.129
+ICMP TTL:64 TOS:0x0 ID:19140 IpLen:20 DgmLen:33
+Type:8  Code:0  ID:20505   Seq:1536  ECHO
+
+[**] [1:100000002:1] Warning!! Possible DDOS Probe!! [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+04/15-17:08:43.779333 192.168.20.128 -> 192.168.20.129
+ICMP TTL:64 TOS:0x0 ID:56013 IpLen:20 DgmLen:33
+Type:8  Code:0  ID:20505   Seq:1792  ECHO
+
+[**] [1:100000002:1] Warning!! Possible DDOS Probe!! [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+04/15-17:08:44.782258 192.168.20.128 -> 192.168.20.129
+ICMP TTL:64 TOS:0x0 ID:40119 IpLen:20 DgmLen:33
+Type:8  Code:0  ID:20505   Seq:2048  ECHO
+
+[**] [1:100000002:1] Warning!! Possible DDOS Probe!! [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+04/15-17:08:45.785507 192.168.20.128 -> 192.168.20.129
+ICMP TTL:64 TOS:0x0 ID:57694 IpLen:20 DgmLen:33
+Type:8  Code:0  ID:20505   Seq:2304  ECHO
+
+[**] [1:100000002:1] Warning!! Possible DDOS Probe!! [**]
+[Classification: Detection of a Denial of Service Attack] [Priority: 2] 
+04/15-17:08:46.787950 192.168.20.128 -> 192.168.20.129
+ICMP TTL:64 TOS:0x0 ID:8028 IpLen:20 DgmLen:33
+Type:8  Code:0  ID:20505   Seq:2560  ECHO
+
